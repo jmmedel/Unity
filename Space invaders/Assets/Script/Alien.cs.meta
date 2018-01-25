@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 711f27968bf0a414d88dfe19c3c857dc
+timeCreated: 1511883017
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startingImage: {fileID: 21300006, guid: e1c7709a23a1c7249b071a6294852475, type: 3}
+  - altImage: {fileID: 21300010, guid: e1c7709a23a1c7249b071a6294852475, type: 3}
+  - alienBullet: {fileID: 1794285544347394, guid: 37f10f2ba81a3ca4d83e91336f4ff15d,
+      type: 2}
+  - explodedShipImage: {fileID: 21300014, guid: e1c7709a23a1c7249b071a6294852475,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
